@@ -52,7 +52,7 @@ Descarga oficial: https://pseint.sourceforge.net
 
 ### Dev-C++
 También se utilizó Dev-C++ para algunos ejercicios y proyectos.
-El archivo instalador se encuentra incluido dentro del repositorio para facilitar la descarga.
+El archivo instalador no se encuentra incluido dentro del repositorio, pero se puede descargar por Internet.
 
 ------------------------------------------------------------------------
 
