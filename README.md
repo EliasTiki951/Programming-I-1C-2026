@@ -1,4 +1,4 @@
-# Trabajos de Programación I - 1C 2026
+# Trabajos de Programación I - 1C 2026 UTN Delta
 
 Repositorio con mis ejercicios, prácticas y trabajos realizados durante
 la materia **Programación I (1er cuatrimestre 2026)**. Este repositorio
@@ -15,7 +15,6 @@ inicial.
 ### TP1: Operadores y Variables
 
 Ejercicios sobre:
-
 -   Entrada y salida de datos
 -   Variables
 -   Operadores matemáticos
@@ -26,7 +25,6 @@ Ejercicios sobre:
 ### Próximos trabajos prácticos
 
 El repositorio continuará actualizándose con:
-
 -   TP2: Condicionales
 -   TP3: Condicionales avanzados
 -   TP4: Switch
@@ -46,30 +44,21 @@ Durante el desarrollo de estos ejercicios se utilizaron las siguientes
 herramientas:
 
 ### Code::Blocks
-
-Versión utilizada:
-
-**codeblocks-25.03mingw-setup.exe**
-
+Versión utilizada: **codeblocks-25.03mingw-setup.exe**
 Descarga oficial: https://www.codeblocks.org/downloads/binaries/
 
 ### PSeInt
-
 Descarga oficial: https://pseint.sourceforge.net
 
 ### Dev-C++
-
 También se utilizó Dev-C++ para algunos ejercicios y proyectos.
-
-El archivo instalador se encuentra incluido dentro del repositorio para
-facilitar la descarga.
+El archivo instalador se encuentra incluido dentro del repositorio para facilitar la descarga.
 
 ------------------------------------------------------------------------
 
 ## 📂 Archivos incluidos
 
 Dentro del repositorio podrás encontrar:
-
 -   Archivos `.cpp`
 -   Archivos `.psc` de PSeInt
 -   Proyectos `.dev`
@@ -91,9 +80,7 @@ Dentro del repositorio podrás encontrar:
 ## 🎯 Estado del proyecto
 
 ✅ TP1 cargado
-
 🔄 Repositorio en actualización constante
-
 ⏳ Próximamente nuevos ejercicios y trabajos prácticos
 
 ------------------------------------------------------------------------
@@ -101,8 +88,7 @@ Dentro del repositorio podrás encontrar:
 ## 📝 Notas
 
 -   Este repositorio es de práctica y aprendizaje.
--   Los ejercicios fueron realizados durante la cursada de Programación
-    I.
+-   Los ejercicios fueron realizados durante la cursada de Programación I.  
 -   Se irá actualizando con nuevos contenidos.
 
 ------------------------------------------------------------------------
