@@ -97,4 +97,5 @@ Dentro del repositorio podrás encontrar:
 ------------------------------------------------------------------------
 
 Última actualización: Mayo 2026
+
 🚀 Proyecto en crecimiento.
