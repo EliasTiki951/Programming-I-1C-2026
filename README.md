@@ -1,1 +1,0 @@
-# Programaci-n-I---1C-2026
