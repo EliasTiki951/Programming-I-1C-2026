@@ -43,16 +43,18 @@ El repositorio continuará actualizándose con:
 Durante el desarrollo de estos ejercicios se utilizaron las siguientes
 herramientas:
 
-### Code::Blocks
-Versión utilizada: **codeblocks-25.03mingw-setup.exe**
-Descarga oficial: https://www.codeblocks.org/downloads/binaries/
-
 ### PSeInt
 Descarga oficial: https://pseint.sourceforge.net
+El archivo instalador se encuentra incluido dentro del repositorio lista para descargar e Instalar.
 
 ### Dev-C++
-También se utilizó Dev-C++ para algunos ejercicios y proyectos.
+Se utilizó Dev-C++ para todos los ejercicios y proyectos.
 El archivo instalador no se encuentra incluido dentro del repositorio, pero se puede descargar por Internet.
+
+### Code::Blocks
+También se utilizó Code::Blocks para algunos de los ejercicios y proyectos.
+Versión utilizada: **codeblocks-25.03mingw-setup.exe**
+Descarga oficial: https://www.codeblocks.org/downloads/binaries/
 
 ------------------------------------------------------------------------
 
@@ -90,9 +92,9 @@ Dentro del repositorio podrás encontrar:
 -   Este repositorio es de práctica y aprendizaje.
 -   Los ejercicios fueron realizados durante la cursada de Programación I.  
 -   Se irá actualizando con nuevos contenidos.
+-   Pueden contactarse conmigo no hay ningún problema.
 
 ------------------------------------------------------------------------
 
 Última actualización: Mayo 2026
-
 🚀 Proyecto en crecimiento.
