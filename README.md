@@ -82,7 +82,9 @@ Dentro del repositorio podrás encontrar:
 ## 🎯 Estado del proyecto
 
 ✅ TP1 cargado
+
 🔄 Repositorio en actualización constante
+
 ⏳ Próximamente nuevos ejercicios y trabajos prácticos
 
 ------------------------------------------------------------------------
