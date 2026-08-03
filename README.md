@@ -36,8 +36,6 @@ Aquí encontrarás desde ejercicios básicos de variables hasta estructuras de d
 
 ## 📁 Estructura del Repositorio
 
-## 📁 Estructura del Repositorio
-
 ```
 Programacion_I_1C_2026/
 │
