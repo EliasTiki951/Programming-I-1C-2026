@@ -36,9 +36,12 @@ Aquí encontrarás desde ejercicios básicos de variables hasta estructuras de d
 
 ## 📁 Estructura del Repositorio
 
+## 📁 Estructura del Repositorio
+
+```
 Programacion_I_1C_2026/
 │
-├── 📄 Clase 1.pdf # Material teórico
+├── 📄 Clase 1.pdf
 ├── 📄 Clase 2.pdf
 ├── 📄 Clase 3.pdf
 ├── 📄 Clase 4.pdf
@@ -47,33 +50,34 @@ Programacion_I_1C_2026/
 ├── 📄 Resumen Completo - Lógica de Programación.pdf
 ├── 📄 Teoria_parcial1_programacion.pdf
 │
-├── 📂 Clase 6 Array/ # Ejercicios de Arrays
-├── 📂 Clase For Bisiesto/ # For - Año Bisiesto
-├── 📂 Clase For Contador/ # For - Contador
-├── 📂 Clase For Temperatura/ # For - Temperatura
-├── 📂 Clase Funciones/ # Introducción a Funciones
-├── 📂 Clase Matriz/ # Matrices
-├── 📂 Clase While/ # While
-├── 📂 Clase4/ # Ejercicios varios
-├── 📂 Producto de precios For/ # For - Productos
-├── 📂 Programa Con Menú/ # Menú interactivo
-├── 📂 Sistema de Empresa de Envios/ # Proyecto integrador
+├── 📂 Clase 6 Array/
+├── 📂 Clase For Bisiesto/
+├── 📂 Clase For Contador/
+├── 📂 Clase For Temperatura/
+├── 📂 Clase Funciones/
+├── 📂 Clase Matriz/
+├── 📂 Clase While/
+├── 📂 Clase4/
+├── 📂 Producto de precios For/
+├── 📂 Programa Con Menú/
+├── 📂 Sistema de Empresa de Envios/
 │
-├── 📂 Funciones/ # TP completo de Funciones
-│ ├── 📂 Programacion 1 - Tp nro.8 funciones/
-│ └── 📄 Trabajo Practico Funciones.pdf
+├── 📂 Funciones/
+│   ├── 📂 Programacion 1 - Tp nro.8 funciones/
+│   └── 📄 Trabajo Practico Funciones.pdf
 │
-├── 📂 Tp1/ # Trabajo Práctico 1
-├── 📂 Tp2/ # Trabajo Práctico 2
-├── 📂 Tp3/ # Trabajo Práctico 3
-├── 📂 Tp4/ # Trabajo Práctico 4
-├── 📂 Tp5/ # Trabajo Práctico 5
-├── 📂 Tp6/ # Trabajo Práctico 6
-├── 📂 Tp7/ # Trabajo Práctico 7
+├── 📂 Tp1/
+├── 📂 Tp2/
+├── 📂 Tp3/
+├── 📂 Tp4/
+├── 📂 Tp5/
+├── 📂 Tp6/
+├── 📂 Tp7/
 │
-├── 📂 Tp Pre-Parcial/ # Repaso pre-parcial
+├── 📂 Tp Pre-Parcial/
 │
-└── 📄 README.md # Este archivo
+└── 📄 README.md
+```
 
 ---
 
